@@ -1,0 +1,10 @@
+C:\Users\yrik1\Desktop\Image_App-master\ImgApp_2_WinForms\obj\Debug\ImgApp_2_WinForms.csprojAssemblyReference.cache
+C:\Users\yrik1\Desktop\Image_App-master\ImgApp_2_WinForms\obj\Debug\ImgApp_2_WinForms.Form1.resources
+C:\Users\yrik1\Desktop\Image_App-master\ImgApp_2_WinForms\obj\Debug\ImgApp_2_WinForms.csproj.GenerateResource.cache
+C:\Users\yrik1\Desktop\Image_App-master\ImgApp_2_WinForms\obj\Debug\ImgApp_2_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\yrik1\Desktop\Image_App-master\ImgApp_2_WinForms\bin\Debug\lab1scoi.exe.config
+C:\Users\yrik1\Desktop\Image_App-master\ImgApp_2_WinForms\bin\Debug\lab1scoi.exe
+C:\Users\yrik1\Desktop\Image_App-master\ImgApp_2_WinForms\bin\Debug\lab1scoi.pdb
+C:\Users\yrik1\Desktop\Image_App-master\ImgApp_2_WinForms\obj\Debug\lab1scoi.Properties.Resources.resources
+C:\Users\yrik1\Desktop\Image_App-master\ImgApp_2_WinForms\obj\Debug\lab1scoi.exe
+C:\Users\yrik1\Desktop\Image_App-master\ImgApp_2_WinForms\obj\Debug\lab1scoi.pdb
